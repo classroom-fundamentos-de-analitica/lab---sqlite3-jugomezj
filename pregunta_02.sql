@@ -16,5 +16,5 @@
 --     COUNT(*)
 --  0        30
 --
---  SELECT COUNT(*) FROM tbl1
+ SELECT COUNT(*) FROM tbl1
 -- 
